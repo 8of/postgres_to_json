@@ -6,7 +6,7 @@ Java project with Maven.
 
 ## How to use
 
-Compile & run with 6 parameters:
+Compile & run with 6 parameters in the same exact order without names:
 
 `db_host db_port db_name db_sceheme user_name user_password`
 
